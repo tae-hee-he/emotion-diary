@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f3b5e7b1.css",
-    "main.js": "/static/js/main.4f308902.js",
-    "static/js/453.bdffcfb8.chunk.js": "/static/js/453.bdffcfb8.chunk.js",
-    "index.html": "/index.html",
-    "main.f3b5e7b1.css.map": "/static/css/main.f3b5e7b1.css.map",
-    "main.4f308902.js.map": "/static/js/main.4f308902.js.map",
-    "453.bdffcfb8.chunk.js.map": "/static/js/453.bdffcfb8.chunk.js.map"
+    "main.css": "/tae-hee-he/emotion-diary.git/static/css/main.f3b5e7b1.css",
+    "main.js": "/tae-hee-he/emotion-diary.git/static/js/main.bc6fb7e9.js",
+    "static/js/453.bdffcfb8.chunk.js": "/tae-hee-he/emotion-diary.git/static/js/453.bdffcfb8.chunk.js",
+    "index.html": "/tae-hee-he/emotion-diary.git/index.html",
+    "main.f3b5e7b1.css.map": "/tae-hee-he/emotion-diary.git/static/css/main.f3b5e7b1.css.map",
+    "main.bc6fb7e9.js.map": "/tae-hee-he/emotion-diary.git/static/js/main.bc6fb7e9.js.map",
+    "453.bdffcfb8.chunk.js.map": "/tae-hee-he/emotion-diary.git/static/js/453.bdffcfb8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f3b5e7b1.css",
-    "static/js/main.4f308902.js"
+    "static/js/main.bc6fb7e9.js"
   ]
 }
